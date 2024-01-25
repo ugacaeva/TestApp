@@ -1,0 +1,12 @@
+C:\Users\Home\source\repos\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\Home\source\repos\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Users\Home\source\repos\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Home\source\repos\TestApp\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\TestApp\TestApp\obj\Debug\TestApp.AddEditForm.resources
+C:\Users\Home\source\repos\TestApp\TestApp\obj\Debug\TestApp.Form1.resources
+C:\Users\Home\source\repos\TestApp\TestApp\obj\Debug\TestApp.MainForm.resources
+C:\Users\Home\source\repos\TestApp\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Users\Home\source\repos\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Users\Home\source\repos\TestApp\TestApp\obj\Debug\TestApp.pdb
